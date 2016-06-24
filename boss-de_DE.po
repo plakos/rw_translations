@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Boss. v1.1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-13 20:03-0600\n"
-"PO-Revision-Date: Thu Nov 12 2015 13:42:10 GMT+0100\n"
-"Last-Translator: Frank Staude <frank@staude.net>\n"
+"PO-Revision-Date: Mon Dec 28 2015 13:10:38 GMT+0100\n"
+"Last-Translator: Bernd Ost <bernd.ost@eeb-virtuell.de>\n"
 "Language-Team: BuddyBoss <support@buddyboss.com>\n"
 "Language: German\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
@@ -113,12 +113,12 @@ msgstr "Folien suchen "
 # @ boss
 #: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:25
 msgid "No Slides found"
-msgstr "Kein Folie gefunden"
+msgstr "Keine Folien gefunden"
 
 # @ boss
 #: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:26
 msgid "No Slides found in trash"
-msgstr "Kein Folie im Papierkorb gefunden"
+msgstr "Keine Folie im Papierkorb gefunden"
 
 # @ boss
 #: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:76
