@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress Docs v1.2.3\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/buddypress-docs\n"
 "POT-Creation-Date: 2016-05-09 22:51+0200\n"
-"PO-Revision-Date: 2016-05-09 23:34+0200\n"
+"PO-Revision-Date: 2016-06-30 16:24+0200\n"
 "Last-Translator: Frank Staude <frank@staude.net>\n"
 "Language-Team: HansRuedi Keller <keller@fusion.ch>\n"
 "Language: de_DE\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -976,14 +976,14 @@ msgstr "Zeige Artikel"
 #, php-format
 msgctxt "group Docs directory breadcrumb"
 msgid "%s&#8217;s Docs"
-msgstr "%s&#8217;s Artikel"
+msgstr "%ss Artikel"
 
 # @ default
 #: includes/integration-users.php:294
 #, php-format
 msgctxt "user Docs directory breadcrumb"
 msgid "%s&#8217;s Docs"
-msgstr "%s&#8217;s Artikel"
+msgstr "%ss Artikel"
 
 # @ bp-docs
 #: includes/query-builder.php:421
